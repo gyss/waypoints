@@ -1,7 +1,10 @@
 {
   "name": "waypoints",
   "version": "3.1.1",
-  "main": "lib/noframework.waypoints.js",
+  "main": [
+    "lib/jquery.waypoints.min.js",
+    "lib/shortcuts/sticky.min.js"
+  ],
   "description": "Easily execute a function when you scroll to an element.",
   "ignore": [
     "gulpfile.js",
