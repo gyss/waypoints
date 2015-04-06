@@ -1,6 +1,6 @@
 {
-  "name": "waypoints-gyss",
-  "version": "1.0.0",
+  "name": "waypoints",
+  "version": "3.1.1",
   "main": [
     "lib/jquery.waypoints.min.js",
     "lib/shortcuts/sticky.min.js"
